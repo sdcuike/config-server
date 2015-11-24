@@ -19,3 +19,16 @@ https://github.com/spring-cloud/spring-cloud-zookeeper
 
 https://github.com/cncduLee/zk-ucc
 
+
+
+http://code.taobao.org/p/diamond/src/
+
+ 
+
+ 
+
+https://github.com/Qihoo360/QConf
+
+http://www.infoq.com/cn/articles/weibao-config-service-practice 
+
+ 
