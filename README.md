@@ -38,4 +38,5 @@ https://yahooeng.tumblr.com/post/141920508211/configuration-management-for-distr
 http://tamaya.incubator.apache.org/
 
 https://github.com/apache/incubator-tamaya
+
 https://www.infoq.com/articles/Apache-Tamaya-Configure-Once-Run-Everywhere
