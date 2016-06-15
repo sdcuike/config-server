@@ -34,3 +34,7 @@ http://www.infoq.com/cn/articles/weibao-config-service-practice
  
 https://github.com/cfg4j/cfg4j  The Cool Guy: Configuration library
 https://yahooeng.tumblr.com/post/141920508211/configuration-management-for-distributed-systems
+
+https://tamaya.incubator.apache.org/
+
+https://www.infoq.com/articles/Apache-Tamaya-Configure-Once-Run-Everywhere
