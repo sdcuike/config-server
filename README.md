@@ -43,3 +43,5 @@ http://tamaya.incubator.apache.org/
 https://github.com/apache/incubator-tamaya
 
 https://www.infoq.com/articles/Apache-Tamaya-Configure-Once-Run-Everywhere
+
+https://github.com/ctripcorp/apollo
